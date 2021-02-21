@@ -15,3 +15,10 @@ hr{
 img{
 	width: 40%;
 }
+figure{
+	margin: 0;
+}
+footer{
+	margin: 0 auto;
+	width: 60%;
+}
